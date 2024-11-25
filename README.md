@@ -20,6 +20,8 @@ This project is an interactive Power BI dashboard designed to analyze and visual
 - Analyzed geographic sales performance and customer behavior trends.  
 - Visualized monthly revenue trends and profit margins.  
 
+![Screenshot (246)](https://github.com/user-attachments/assets/77ad3ec7-d395-4356-a48d-ca6e4555e206)
+
 
 ---
 ## Tools and Technologies  
