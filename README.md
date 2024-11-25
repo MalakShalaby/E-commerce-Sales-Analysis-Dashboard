@@ -3,6 +3,9 @@
 ## Project Overview  
 This project is an interactive Power BI dashboard designed to analyze and visualize key metrics for an e-commerce business. It provides insights into revenue, customer behavior, product performance, and geographic sales distribution, helping stakeholders make data-driven decisions.
 
+**YOU CAN INTERACT WITH THE DASHBOARD HERE:**  
+[Power BI Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzFmZTNiNzgtZWI4OC00YmI3LWFhYzMtYjU4ZDA3YTllZDI4IiwidCI6IjJiNzczZDk5LWYyMjktNDcwNC1iNTYyLTVhMzE5ODgzMTc3OSIsImMiOjh9&pageName=a575f6de5f70d689f666)  
+
 ---
 
   ## Objectives  
