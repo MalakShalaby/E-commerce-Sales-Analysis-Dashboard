@@ -7,6 +7,8 @@ This project is an interactive Power BI dashboard designed to analyze and visual
 [Power BI Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzFmZTNiNzgtZWI4OC00YmI3LWFhYzMtYjU4ZDA3YTllZDI4IiwidCI6IjJiNzczZDk5LWYyMjktNDcwNC1iNTYyLTVhMzE5ODgzMTc3OSIsImMiOjh9&pageName=a575f6de5f70d689f666)  
 
 ---
+![Screenshot (246)](https://github.com/user-attachments/assets/77ad3ec7-d395-4356-a48d-ca6e4555e206)
+
 
   ## Objectives  
 - Conducted a **What-If Analysis** to evaluate how shipping larger quantities could reduce costs for customers while increasing revenue for the business owner.  
@@ -19,8 +21,6 @@ This project is an interactive Power BI dashboard designed to analyze and visual
 - Identified the top-selling products and categories.  
 - Analyzed geographic sales performance and customer behavior trends.  
 - Visualized monthly revenue trends and profit margins.  
-
-![Screenshot (246)](https://github.com/user-attachments/assets/77ad3ec7-d395-4356-a48d-ca6e4555e206)
 
 
 ---
